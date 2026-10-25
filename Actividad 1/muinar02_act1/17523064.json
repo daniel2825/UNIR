@@ -1,0 +1,235 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-11-04T13:39:48.119791+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "02Dataset_anonimizado.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2a63f8308385c143cd9ab059ce279149",
+        "ext": "csv",
+        "id": "64571a55-95b8-4f39-9366-60674c1d92e8",
+        "key": "02Dataset_anonimizado.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/17523064/files/02Dataset_anonimizado.csv/content",
+          "self": "https://zenodo.org/api/records/17523064/files/02Dataset_anonimizado.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 418487737,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 418487737
+  },
+  "id": "17523064",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/17523064/access",
+    "access_grants": "https://zenodo.org/api/records/17523064/access/grants",
+    "access_links": "https://zenodo.org/api/records/17523064/access/links",
+    "access_request": "https://zenodo.org/api/records/17523064/access/request",
+    "access_users": "https://zenodo.org/api/records/17523064/access/users",
+    "communities": "https://zenodo.org/api/records/17523064/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/17523064/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.17523064",
+    "draft": "https://zenodo.org/api/records/17523064/draft",
+    "file_modification": "https://zenodo.org/api/records/17523064/file-modification",
+    "files": "https://zenodo.org/api/records/17523064/files",
+    "latest": "https://zenodo.org/api/records/17523064/versions/latest",
+    "latest_html": "https://zenodo.org/records/17523064/latest",
+    "media_files": "https://zenodo.org/api/records/17523064/media-files",
+    "parent": "https://zenodo.org/api/records/17523063",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17523063",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17523063",
+    "parent_html": "https://zenodo.org/records/17523063",
+    "preview_html": "https://zenodo.org/records/17523064?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/17523064/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/17523064/request-deletion",
+    "requests": "https://zenodo.org/api/records/17523064/requests",
+    "reserve_doi": "https://zenodo.org/api/records/17523064/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/17523064",
+    "self_doi": "https://doi.org/10.5281/zenodo.17523064",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17523064",
+    "self_html": "https://zenodo.org/records/17523064",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17523064/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17523064/sequence/default",
+    "versions": "https://zenodo.org/api/records/17523064/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "029gnnp81",
+            "identifiers": [
+              {
+                "identifier": "029gnnp81",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.13825.3d",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0458 0356",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Universidad Internacional De La Rioja"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Said-Hung",
+          "given_name": "Elias",
+          "name": "Said-Hung, Elias",
+          "type": "personal"
+        },
+        "role": {
+          "id": "datamanager",
+          "title": {
+            "de": "DatenmanagerIn",
+            "en": "Data manager"
+          }
+        }
+      }
+    ],
+    "description": "<p>Dataset de ejemplo de mensajes anonimizados y etiquetados en Hatemedia, correspondiente al a&ntilde;o 1 del proyecto Hatemedia PID2020-114584GB-I00) en 2021, financiado por MCIN/AEI/10.13039/501100011033. El proceso de etiquetado manual realizado seg&uacute;n la metodolog&iacute;a mostrada en esta <a href=\"https://www.canva.com/design/DAGoW10VWV8/zcajlTEmSm0zzMEZxy9v8g/view\">infograf&iacute;a</a>.&nbsp;</p>\n<p>Este dataset se publica con fines &uacute;nicamente educativos y est&aacute; siendo empleado por el M&aacute;ster Universitario en Inteligencia Artificial de la UNIR como referencia para parte de las actividades del m&aacute;ster.</p>\n<p>M&aacute;s informaci&oacute;n del proyecto Hatemedia: https://hatemedia.es/conoce-proyectos/</p>\n<p>&nbsp;</p>",
+    "funding": [
+      {
+        "award": {
+          "identifiers": [
+            {
+              "identifier": "https://www.aei.gob.es/",
+              "scheme": "url"
+            }
+          ],
+          "number": "PID2020-114584GB-I00",
+          "title": {
+            "en": "Funding Project"
+          }
+        },
+        "funder": {
+          "id": "003x0zc53",
+          "name": "Agencia Estatal de Investigaci\u00f3n"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "id": "spa",
+        "title": {
+          "en": "Spanish"
+        }
+      }
+    ],
+    "publication_date": "2025-11-04",
+    "publisher": "Hatemedia Project",
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "Dataset ejemplo de datos recabados en Hatemedia"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "224103"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "17523063",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.17523063",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.17523064",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:17523064",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 1461359177604.0,
+      "downloads": 3492,
+      "unique_downloads": 3017,
+      "unique_views": 5024,
+      "views": 5869
+    },
+    "this_version": {
+      "data_volume": 1461359177604.0,
+      "downloads": 3492,
+      "unique_downloads": 3017,
+      "unique_views": 5024,
+      "views": 5869
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2025-11-04T13:40:56.328821+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
