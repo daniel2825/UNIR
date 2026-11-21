@@ -1,0 +1,8 @@
+﻿Método,Intensidad media,Desviación estándar,Píxeles saturados (%)
+Original,6.64,16.1,0.01
+Suma +80,86.56,15.12,0.17
+Gamma 0.4,41.99,33.93,0.02
+Logarítmica,60.63,48.73,0.02
+Ecualización global,142.27,63.21,0.2
+Ecualización 0.5,74.19,36.43,0.01
+"CLAHE clip=4, grid=(8,8)",26.52,32.69,0.01
